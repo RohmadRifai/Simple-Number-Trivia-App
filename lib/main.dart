@@ -1,4 +1,4 @@
-import 'package:clean_architecture_tdd_course/features/number_trivia/presentation/pages/number_trivia_page.dart';
+import 'features/number_trivia/presentation/pages/number_trivia_page.dart';
 import 'package:flutter/material.dart';
 import 'injection_container.dart' as di;
 
